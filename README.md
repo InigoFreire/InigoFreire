@@ -29,6 +29,7 @@ ES | Soy un desarrollador de aplicaciones multiplataforma junior de Bilbao (Eusk
 - ⚡ Fun fact: Puedo hablar de Fórmula 1 durante horas ¡y sin cansarme!😄 *(Aunque probablemente tú sí te canses de mí 😆)*
 
 
+
 EN | I´m a junior multiplatform app developer from Bilbao (Basque Country / Spain).
 
 - 📓 I am currently studying a high grade on Multiplatform App Developing.
