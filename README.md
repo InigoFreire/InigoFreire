@@ -1,6 +1,6 @@
 ### ¡Hola! Soy Iñigo Freire 👋 | Hey there! I´m Iñigo Freire 👋
 
-ES | Soy un desarrollador de aplicaciones multiplataforma junior de Bilbao (Euskadi-País Vasco / España).
+🇪🇸 ES | Soy un desarrollador de aplicaciones multiplataforma junior de Bilbao (Euskadi-País Vasco / España).
 
 - 📓 Actualmente, estoy estudiando un grado superior de *DAM (Desarrollo de Aplicaciones Multiplataforma)*.
   - Previamente he cursado un grado medio de *SMR (Sistemas Microinformáticos y Redes)* y *ASIR (Administración de Sistemas Informáticos en Red)*.
@@ -19,7 +19,7 @@ ES | Soy un desarrollador de aplicaciones multiplataforma junior de Bilbao (Eusk
 
 
 
-EN | I´m a junior multiplatform app developer from Bilbao (Basque Country / Spain).
+🇬🇧 🇺🇸 EN | I´m a junior multiplatform app developer from Bilbao (Basque Country / Spain).
 
 - 📓 I am currently studying a high grade on Multiplatform App Developing.
   - I previously studied a mid grade on *Computer Systems and Networks*, and also a high grade on *Administration of Networked Computer Systems*.
