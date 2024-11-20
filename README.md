@@ -13,9 +13,9 @@ ES | Soy un desarrollador de aplicaciones multiplataforma junior de Bilbao (Eusk
 - ❓ ¿Y qué pasa con mi futuro? 🚀
   - A día de hoy estoy formándome por mi cuenta en diferentes ámbitos de ciberseguridad; por ejemplo Wi-Fi hacking, hacking con buscadores web, etc.
 
-- 📫 Cómo contactar conmigo: **[Email](mailto:inigofreire@proton.me)** | **[LinkedIn](https://https:/www.linkedin.com/in/inigofreire/)**
+- 📫 Cómo contactar conmigo: **[Email](mailto:github.spree260@passmail.com)** | **[LinkedIn](https://https:/www.linkedin.com/in/inigofreire/)**
 
-- 📚 Mi perfil de OpenWebinars: **[OpenWebinars](https://openwebinars.net/@exbKND3o/)**
+- 🌐 Mi web personal (desarrollada y hosteada por mí mismo): **[Website](https://inigofreire.duckdns.org)**
 
 
 
@@ -32,6 +32,6 @@ EN | I´m a junior multiplatform app developer from Bilbao (Basque Country / Spa
 -❓ ¿What about my future? 🚀
   - As of today, I am educating on my own on diferent cyber security topics, as Wi-Fi hacking, search engine hacking, etc.
 
-- 📫 How to reach me: **[Email](mailto:inigofreire@proton.me)** | **[LinkedIn](https://https:/www.linkedin.com/in/inigofreire/)**
+- 📫 How to reach me: **[Email](mailto:github.spree260@passmail.com)** | **[LinkedIn](https://https:/www.linkedin.com/in/inigofreire/)**
 
-- 📚 My OpenWebinars profile: **[OpenWebinars](https://openwebinars.net/@exbKND3o/)**
+- 🌐 My personal website (developed by myself and self-hosted): **[Website](https://inigofreire.duckdns.org)**
