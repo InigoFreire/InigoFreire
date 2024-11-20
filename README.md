@@ -17,7 +17,7 @@ ES | Soy un desarrollador de aplicaciones multiplataforma junior de Bilbao (Eusk
 
 - 🌐 Mi web personal (desarrollada y hosteada por mí mismo): **[Website](https://inigofreire.duckdns.org)**
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-==-=-=-=-=-=-=-=-=-=-=-=-=-=-==-=-=-=-=-=-=-=-=-=-=-=-=-=-==-=-=-=-=-=-=-=-=-=-=-=-=-=-==-=-=-=-=-=-=-=-=-=-=-=-=-=-==-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+============================================================================================
 
 EN | I´m a junior multiplatform app developer from Bilbao (Basque Country / Spain).
 
